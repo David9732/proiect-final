@@ -25,51 +25,51 @@
     "products": [
         {
             "id": 1,
-            "name": "LED display",
-            "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-            "price": 92,
+            "name": "Gaming PC",
+            "description": "rtx 4090 ti,intel i9 13th,128gb ram,Auros v570 pro x,10tb HDD,5tb SSD.",
+            "price": 5500,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/David9732/proiect-final/main/img/pc.png"
         },
         {
             "id": 2,
-            "name": "Arduino UNO",
-            "description": "Brand new and high quality.",
-            "price": 180,
+            "name": "Monitor Gaming ",
+            "description": "8K ,360 HZ,35 inch ",
+            "price": 1500,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/David9732/proiect-final/main/img/monitor.png"
         },
         {
             "id": 3,
-            "name": "ESP8266 5V",
-            "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
-            "price": 300,
+            "name": "Tastatura",
+            "description": "tastatura pe membrana 60 %.",
+            "price": 50,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/David9732/proiect-final/main/img/tastatura.jpg"
         },
         {
             "id": 4,
-            "name": "RGB",
-            "description": "Can make color party.",
-            "price": 92,
+            "name": "Mouse",
+            "description": "Mouse rgb,25600 dpi.",
+            "price": 150,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+             "photo_url": "https://raw.githubusercontent.com/David9732/proiect-final/main/img/mouse.png"
         },
         {
             "id": 5,
-            "name": "Resistor 10k Ohm",
-            "description": "Can resist the voltage. Super cool.",
-            "price": 180,
+            "name": "Mousepad",
+            "description": "1m pe 50 cm",
+            "price": 50,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+             "photo_url": "https://raw.githubusercontent.com/David9732/proiect-final/main/img/mousepad.png"
         },
         {
             "id": 6,
-            "name": "7-Segment Display",
-            "description": "Epic.",
-            "price": 300,
+            "name": "Casti Gaming",
+            "description": "Epic sounds",
+            "price": 200,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+             "photo_url": "https://raw.githubusercontent.com/David9732/proiect-final/main/img/casti.png"
         }
     ]
 }
